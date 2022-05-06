@@ -1,0 +1,5 @@
+- 👋 olá, meu nome é Gabriela 
+- 👀 meus interesses são em programação Scratch
+- 🌱 no momento estou aprendendo a trabalhar na diciplina computacioal
+- 💞️ adoraria a colaboração da programação
+- 📫 E-mail: gabriela.lebit@escola.pr.gov.br
